@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-02-08T09:06:17.000Z",
+    "entities": "Signal",
+    "topic": "cyberattack",
+    "eventSummary": "A state-sponsored threat actor is executing a complex phishing campaign targeting Signal users in Germany, specifically aiming at high-ranking politicians, military personnel, and journalists.\nSources:\n- https://bsky.app/profile/campuscodi.risky.biz/post/3mecow3ehlc27"
+  },
+  {
+    "timestamp": "2026-02-07T20:54:26.000Z",
+    "entities": "BreachForums",
+    "topic": "cyberattack",
+    "eventSummary": "BreachForums is experiencing a potential security compromise, displaying a defacement-style message and a countdown timer alongside leaked personal images.\nSources:\n- https://twitter.com/1972819519807852544/status/2020239756332871796"
+  },
+  {
+    "timestamp": "2026-02-07T16:11:39.000Z",
+    "entities": "Betterment",
+    "topic": "cyberattack",
+    "eventSummary": "Financial custodian Betterment suffered a data breach exposing information of 1.4 million customers. The incident involved a vishing attack against a third-party vendor, identified as Salesforce, to compromise IT support.\nSources:\n- https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mebs22l3w72e"
+  },
+  {
+    "timestamp": "2026-02-07T16:10:52.000Z",
+    "entities": "BridgePay",
+    "topic": "cyberattack",
+    "eventSummary": "Payments platform BridgePay confirmed that a ransomware attack was the cause of a recent service outage.\nSources:\n- https://twitter.com/128484298/status/2020168391521382628"
+  },
+  {
+    "timestamp": "2026-02-07T12:37:11.000Z",
+    "entities": "GitHub",
+    "topic": "cyberattack",
+    "eventSummary": "A large-scale attack is targeting Mac users via GitHub Pages by impersonating various companies to deliver stealer malware.\nSources:\n- https://twitter.com/4827396790/status/2020114616697704471"
+  }
+]
