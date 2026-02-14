@@ -1,3 +1,23 @@
 {
-  "type": "module"
+  "name": "defi-sentinel",
+  "version": "1.0.0",
+  "description": "AI-powered DeFi security intelligence platform — monitoring exploits, vulnerabilities, and threats in real-time",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/api-call.js",
+    "analyze": "node scripts/ai-analysis.js",
+    "update": "node scripts/api-call.js && node scripts/ai-analysis.js"
+  },
+  "keywords": [
+    "defi",
+    "security",
+    "exploit",
+    "vulnerability",
+    "blockchain",
+    "web3",
+    "threat-intelligence",
+    "ai"
+  ],
+  "author": "sealfe",
+  "license": "MIT"
 }
