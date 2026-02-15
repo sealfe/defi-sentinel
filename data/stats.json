@@ -1,18 +1,18 @@
 {
   "total": 15,
   "bySeverity": {
-    "critical": 6,
+    "critical": 7,
     "high": 6,
-    "medium": 3,
+    "medium": 2,
     "low": 0
   },
   "byCategory": {
-    "vulnerability": 4,
-    "exploit": 4,
+    "vulnerability": 5,
     "flash-loan": 2,
-    "rug-pull": 1,
     "oracle-attack": 1,
-    "other": 3
+    "exploit": 4,
+    "rug-pull": 1,
+    "other": 2
   },
-  "lastUpdated": "2026-02-14T12:00:00Z"
+  "lastUpdated": "2026-02-15T12:11:11.209Z"
 }
