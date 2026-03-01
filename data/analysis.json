@@ -1,6 +1,6 @@
 {
   "weeklyBrief": {
-    "title": "Weekly DeFi Security Brief — 2026-02-15 to 2026-02-22",
+    "title": "Weekly DeFi Security Brief — 2026-02-22 to 2026-03-01",
     "summary": "This week's DeFi security landscape recorded 15 notable incidents across 7 blockchain networks, with estimated total losses exceeding $41.3M. 7 events were classified as critical severity, highlighting persistent systemic risks in cross-chain infrastructure and lending protocols.\n\nCross-chain bridge exploits continue to dominate in terms of total value lost, while flash loan attacks on lending protocols show increasing sophistication. The discovery of pre-emptive vulnerabilities through bug bounty programs demonstrates the value of proactive security investment. Smart contract vulnerabilities in newer protocol forks remain a significant concern, particularly on emerging L2 networks.",
     "keyFindings": [
       "15 security incidents tracked across 15 protocols",
@@ -156,5 +156,5 @@
       "lastIncident": "2026-02-07"
     }
   ],
-  "generatedAt": "2026-02-22T12:10:35.232Z"
+  "generatedAt": "2026-03-01T12:10:36.302Z"
 }
